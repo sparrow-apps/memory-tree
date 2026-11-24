@@ -2,7 +2,7 @@
 
 **See what fills your disk, at a glance.** Memory Tree is a free disk space analyzer for Windows with a colorful, shiny "cushion" map of every file and folder. Zoom in with the mouse wheel down to the smallest file, find the big ones, the old ones and the duplicates, and free up space safely.
 
-[**⬇ Download the latest version**](https://github.com/sparrowaddons-prog/memory-tree/releases/latest) · [Ελληνικά ↓](#ελληνικά)
+[**⬇ Download the latest version**](https://github.com/sparrow-apps/memory-tree/releases/latest) · [Ελληνικά ↓](#ελληνικά)
 
 ![Memory Tree showing a games folder](images/overview.png)
 
@@ -27,7 +27,7 @@
 
 ## Getting started
 
-1. Download `MemoryTree-1.0.0-preview-win-x64.zip` from [Releases](https://github.com/sparrowaddons-prog/memory-tree/releases/latest) and unzip it into any folder you like (for example `Documents\Memory Tree`).
+1. Download `MemoryTree-1.0.0-preview-win-x64.zip` from [Releases](https://github.com/sparrow-apps/memory-tree/releases/latest) and unzip it into any folder you like (for example `Documents\Memory Tree`).
 2. Run `MemoryTree.exe` and pick a drive or a folder.
 3. Optional: use **Restart as administrator** in the program for the fast scan.
 
@@ -39,8 +39,8 @@ Requirements: Windows 10 or 11, 64-bit. Nothing else is needed (.NET is built in
 
 This is a **preview**: your feedback decides what comes next.
 
-- Found a bug? → [Report a problem](https://github.com/sparrowaddons-prog/memory-tree/issues/new?template=bug.yml)
-- Have an idea? → [Suggest a feature](https://github.com/sparrowaddons-prog/memory-tree/issues/new?template=idea.yml)
+- Found a bug? → [Report a problem](https://github.com/sparrow-apps/memory-tree/issues/new?template=bug.yml)
+- Have an idea? → [Suggest a feature](https://github.com/sparrow-apps/memory-tree/issues/new?template=idea.yml)
 - Like it? A ⭐ on this page helps a lot.
 
 ## License
@@ -53,7 +53,7 @@ Free to use at home and at work. Please don't re-upload or sell it; share the li
 
 **Δες με μια ματιά τι γεμίζει τον δίσκο σου.** Το Memory Tree είναι δωρεάν πρόγραμμα για Windows που δείχνει κάθε αρχείο και φάκελο ως χρωματιστό, γυαλιστερό «μαξιλαράκι». Κάνεις ζουμ με τη ροδέλα μέχρι το πιο μικρό αρχείο, βρίσκεις τα μεγάλα, τα παλιά και τα διπλά, και ελευθερώνεις χώρο με ασφάλεια.
 
-[**⬇ Κατέβασε την τελευταία έκδοση**](https://github.com/sparrowaddons-prog/memory-tree/releases/latest)
+[**⬇ Κατέβασε την τελευταία έκδοση**](https://github.com/sparrow-apps/memory-tree/releases/latest)
 
 **Τι κάνει:**
 - **Χάρτης που δεν κολλάει.** Ζουμ με τη ροδέλα, σύρσιμο για μετακίνηση, διπλό κλικ για να μπεις σε φάκελο.
@@ -72,12 +72,12 @@ Free to use at home and at work. Please don't re-upload or sell it; share the li
 - **Φορητό.** Ένα .exe, χωρίς εγκατάσταση.
 
 **Ξεκίνημα:**
-1. Κατέβασε το zip από τα [Releases](https://github.com/sparrowaddons-prog/memory-tree/releases/latest) και αποσυμπίεσέ το σε όποιον φάκελο θέλεις.
+1. Κατέβασε το zip από τα [Releases](https://github.com/sparrow-apps/memory-tree/releases/latest) και αποσυμπίεσέ το σε όποιον φάκελο θέλεις.
 2. Άνοιξε το `MemoryTree.exe` και διάλεξε δίσκο ή φάκελο.
 3. Προαιρετικά, πάτα **Επανεκκίνηση ως διαχειριστής** για τη γρήγορη σάρωση.
 
 **Τα Windows γράφουν «Τα Windows προστάτευσαν τον υπολογιστή σας»;** Είναι φυσιολογικό για νέα προγράμματα χωρίς πληρωμένη ψηφιακή υπογραφή. Πάτα **Περισσότερες πληροφορίες → Εκτέλεση οπωσδήποτε**.
 
-**Σχόλια:** είναι **δοκιμαστική έκδοση (preview)** και η γνώμη σου μετράει. [Ανέφερε πρόβλημα](https://github.com/sparrowaddons-prog/memory-tree/issues/new?template=bug.yml) · [Πρότεινε ιδέα](https://github.com/sparrowaddons-prog/memory-tree/issues/new?template=idea.yml) · ένα ⭐ βοηθάει πολύ.
+**Σχόλια:** είναι **δοκιμαστική έκδοση (preview)** και η γνώμη σου μετράει. [Ανέφερε πρόβλημα](https://github.com/sparrow-apps/memory-tree/issues/new?template=bug.yml) · [Πρότεινε ιδέα](https://github.com/sparrow-apps/memory-tree/issues/new?template=idea.yml) · ένα ⭐ βοηθάει πολύ.
 
 **Άδεια:** δωρεάν χρήση στο σπίτι και στη δουλειά. Μην το ξανανεβάζεις αλλού και μην το πουλάς· μοιράσου καλύτερα το link αυτής της σελίδας. Δες το [LICENSE.txt](LICENSE.txt). Ο κώδικας δεν είναι δημόσιος.
