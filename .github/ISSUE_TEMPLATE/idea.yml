@@ -1,0 +1,15 @@
+name: "💡 Idea / Ιδέα"
+description: "Suggest a new feature or an improvement / Πρότεινε κάτι νέο ή μια βελτίωση"
+labels: ["idea"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: "Your idea / Η ιδέα σου"
+      description: "What would you like Memory Tree to do? / Τι θα ήθελες να κάνει το Memory Tree;"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: "Why would it help you? / Πώς θα σε βοηθούσε;"

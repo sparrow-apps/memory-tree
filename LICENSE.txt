@@ -1,0 +1,36 @@
+Memory Tree - Free License (Preview)
+Copyright (c) 2026 sparrowaddons-prog. All rights reserved.
+
+1. You may download and use Memory Tree free of charge, at home or at work,
+   on any number of your own computers.
+2. You may not sell, rent or redistribute Memory Tree (for example by
+   uploading it to other websites). Please share a link to the official
+   page instead: https://github.com/sparrowaddons-prog/memory-tree
+3. You may not decompile, reverse-engineer or modify Memory Tree, except
+   where the law allows it regardless of this license.
+4. NO WARRANTY. Memory Tree is provided "as is", without any warranty.
+   Deleted files go to the Recycle Bin, but you use the program at your own
+   risk. The author is not liable for any loss of data or any other damage.
+5. Later versions of Memory Tree may come under different terms, including
+   paid versions. This license covers the version it came with.
+
+---------------------------------------------------------------------------
+
+Memory Tree - Δωρεάν άδεια χρήσης (Preview)
+Copyright (c) 2026 sparrowaddons-prog. Με την επιφύλαξη παντός δικαιώματος.
+
+1. Μπορείς να κατεβάσεις και να χρησιμοποιείς το Memory Tree δωρεάν, στο
+   σπίτι ή στη δουλειά, σε όσους δικούς σου υπολογιστές θέλεις.
+2. Δεν επιτρέπεται να το πουλήσεις, να το νοικιάσεις ή να το διανείμεις
+   (π.χ. να το ανεβάσεις σε άλλες σελίδες). Μοιράσου καλύτερα το link της
+   επίσημης σελίδας: https://github.com/sparrowaddons-prog/memory-tree
+3. Δεν επιτρέπεται να «ανοίξεις» το Memory Tree για να βρεις ή να αλλάξεις
+   τον κώδικά του (decompile, reverse engineering), ούτε να το τροποποιήσεις,
+   εκτός όπου ο νόμος το επιτρέπει ούτως ή άλλως.
+4. ΧΩΡΙΣ ΕΓΓΥΗΣΗ. Το Memory Tree διατίθεται «ως έχει». Ό,τι διαγράφεις πάει
+   στον Κάδο Ανακύκλωσης, αλλά το χρησιμοποιείς με δική σου ευθύνη. Ο
+   δημιουργός δεν ευθύνεται για απώλεια δεδομένων ή άλλη ζημιά.
+5. Νεότερες εκδόσεις μπορεί να έχουν άλλους όρους, και να είναι επί
+   πληρωμή. Αυτή η άδεια ισχύει για την έκδοση με την οποία ήρθε.
+
+Σε περίπτωση διαφοράς, ισχύει το αγγλικό κείμενο.

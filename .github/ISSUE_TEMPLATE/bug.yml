@@ -1,0 +1,27 @@
+name: "🐞 Problem / Πρόβλημα"
+description: "Something doesn't work right / Κάτι δεν δουλεύει σωστά"
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: "What happened? / Τι έγινε;"
+      description: "What did you do, what did you expect, what happened instead? / Τι έκανες, τι περίμενες, τι έγινε;"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "Memory Tree version / Έκδοση"
+      description: "Help → About / Βοήθεια → Πληροφορίες"
+      placeholder: "1.0.0 Preview"
+  - type: input
+    id: windows
+    attributes:
+      label: "Windows version / Έκδοση Windows"
+      placeholder: "Windows 11 24H2"
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Screenshot (optional) / Εικόνα (προαιρετικά)"
+      description: "Drag an image here. Please hide personal file names. / Σύρε μια εικόνα εδώ. Κρύψε προσωπικά ονόματα αρχείων."
